@@ -99,7 +99,7 @@ const SingleProduct = () => {
           </div>
         </div>
       </section>
-      <Newsletter />
+      {/* <Newsletter /> */}
       <Footer />
     </>
   );
