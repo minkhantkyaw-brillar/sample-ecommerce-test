@@ -17,7 +17,7 @@ const Newsletter = () => {
       >
         <input
           type='text'
-          placeholder='Your email'
+          placeholder='Your emai'
           className='px-6 py-2 focus:outline-none'
         />
         <button className='bg-teal-600 px-6 py-2 text-white'>
